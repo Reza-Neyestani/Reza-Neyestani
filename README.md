@@ -4,8 +4,9 @@
 I am IT Engineering from Tehran, Iran who is an back-end developer, DevOps enthusiast, loves Music And Travels, always learning new things, ready for discussions and make new projects.
 </p>
 
-## <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="images/Skill.png">🛠️</g-emoji> My Skills
+<hr>
 
+## <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="images/Skill.png">🛠️</g-emoji> My Skills
 
 ### <g-emoji class="g-emoji" alias="point_right" fallback-src="images/RightHand.png">👉</g-emoji> Programming languages And Frameworks</h3>
 <p align="left" dir="auto" style="padding:5px 30px;">
