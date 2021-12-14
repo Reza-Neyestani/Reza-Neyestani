@@ -17,17 +17,65 @@ I am IT Engineering from Tehran, Iran who is an back-end developer, DevOps enthu
         <img src="images/Twitter.svg" data-canonical-src="images/-Twitter.svg" style="max-width: 100%;">
     </a>
 </p>
-<!--
-**Reza-Neyestani/Reza-Neyestani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="images/Skill.png">🛠️</g-emoji> My Skills
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <g-emoji class="g-emoji" alias="point_right" fallback-src="images/RightHand.png">👉</g-emoji> Programming languages And Frameworks</h3>
+<p align="left" dir="auto" style="padding:5px 30px;">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img alt="c#" src="images/Csharp.svg">
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/">
+        <img alt="c#" src="images/DotNet.svg">
+    </a>
+</p>
+<br>
+
+### <g-emoji class="g-emoji" alias="point_right" fallback-src="images/RightHand.png">👉</g-emoji> Databases & Cloud Hosting</h3>
+<p align="left" dir="auto" style="padding:5px 30px;">
+    <a href="https://docs.microsoft.com/en-us/sql">
+        <img alt="c#" src="images/MicrosoftSqlServer.svg">
+    </a>
+</p>
+
+
+<br>
+
+### <g-emoji class="g-emoji" alias="point_right" fallback-src="images/RightHand.png">👉</g-emoji> Software & Tools</h3>
+<p align="left" dir="auto" style="padding:5px 30px;">
+     <a href="https://visualstudio.microsoft.com">
+        <img alt="c#" src="images/VisualStudio.svg">
+    </a>
+    <a href="https://code.visualstudio.com">
+        <img alt="c#" src="images/VisualStudioCode.svg">
+    </a>
+    <a href="https://git-scm.com/">
+        <img alt="c#" src="images/Git.svg">
+    </a>
+    <a href="https://github.com/">
+        <img alt="c#" src="images/GitHub.svg">
+    </a>
+    <a href="https://dev.azure.com">
+        <img alt="c#" src="images/AzureDevOps.svg">
+    </a>
+    <a href="https://www.docker.com/">
+        <img alt="c#" src="images/Docker.svg">
+    </a>
+    <a href="https://www.jenkins.io/">
+        <img alt="c#" src="images/Jenkins.svg">
+    </a>
+    <a href="https://www.rabbitmq.com">
+        <img alt="c#" src="images/RabbitMQ.svg">
+    </a>
+    <a href="https://www.elastic.co/elasticsearch/">
+        <img alt="c#" src="images/ElasticSearch.svg">
+    </a>
+    <a href="https://www.elastic.co/kibana/">
+        <img alt="c#" src="images/Kibana.svg">
+    </a>
+    <a href="https://www.linux.org">
+        <img alt="c#" src="images/Linux.svg">
+    </a>
+</p>
