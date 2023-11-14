@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Reza
 
 <p>
-I am IT Engineering from Tehran, Iran who is an back-end developer, DevOps enthusiast, loves Music And Travels, always learning new things, ready for discussions and make new projects.
+I am IT Engineering from Tehran, Iran who is an back-end developer, DevOps enthusiast, always learning new things, ready for discussions and make new projects.
 </p>
 
 <hr>
